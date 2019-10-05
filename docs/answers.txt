@@ -1,1 +1,30 @@
- 
+A.) wc-dhcp55d135:assignment2 ikegeorge$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 483 bytes | 483.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/ikejr11/assignment2.git
+   bf70e96..545e21e  master -> master
+wc-dhcp55d135:assignment2 ikegeorge$ 
+
+B.) 9; git rev-list --all --count
+
+C.) Wednesday 9-25-19; git log --follow .gitignore
+
+D.) To help minimize size, specify work being done
+
+E.) git log shows commit logs, git status shows the wroking tree status
+
+F.) git log -- Vehicle.h
+
+G.) git log --grep="file"
+
+H.) INHERITANCE - defining a new class from a built class
+    POLYMORPHISM - allowing multiple uses of an instance on various types
+    ENCAPSULATION - data and methods that work for a specific type
+I.) In Intergration Manager workflow developers push to directly to their public repository, and then an intergration manager handles integration conflict. In Dictator and Lieutenants, developers push to a lietenant instead of their own public repository, and the lieutenants are responsible for integrating changes for a couple developers. All lieutenants then push to a dictator.
+
+J.) A larger team would benefit from the Dictator and Lieutenant method by having the ability to break up into more specific teams with a lieutenants intergrating changes from their specific "team".
