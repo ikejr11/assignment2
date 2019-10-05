@@ -1,0 +1,6 @@
+wc-dhcp55d135:assignment2 ikegeorge$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+wc-dhcp55d135:assignment2 ikegeorge$ 
