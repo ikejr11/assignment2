@@ -28,3 +28,5 @@ H.) INHERITANCE - defining a new class from a built class
 I.) In Intergration Manager workflow developers push to directly to their public repository, and then an intergration manager handles integration conflict. In Dictator and Lieutenants, developers push to a lietenant instead of their own public repository, and the lieutenants are responsible for integrating changes for a couple developers. All lieutenants then push to a dictator.
 
 J.) A larger team would benefit from the Dictator and Lieutenant method by having the ability to break up into more specific teams with a lieutenants intergrating changes from their specific "team".
+
+5.) The driving simulator is using encapsulation. All derived classes are encapsulated in the base class "vehicles".
